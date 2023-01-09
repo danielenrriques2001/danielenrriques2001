@@ -2,7 +2,7 @@
 
 
 
-- Hi, I'm Daniel, by the way. If you like Harry Potter as much as I do, you can call me **Dani**. 
+- Hi, I'm Daniel, by the way. If you like Harry Potter as much as I do, you can call me or not **Dani** (We'll find it out). 
 
 ```js
 function youLikeHarryPotter(confirm) {
