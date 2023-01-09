@@ -28,6 +28,7 @@ youLikeHarryPotter(true);
 ![MongoDB](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png)
 ![NextJs](https://mfg.fhstp.ac.at/cms/wp-content/uploads/2022/02/800px-Nextjs-logo.svg_.png)
 ![Redux](https://upload.wikimedia.org/wikipedia/commons/3/30/Redux_Logo.png)
+![React](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png)
 
 
 
