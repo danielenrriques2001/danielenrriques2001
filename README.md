@@ -7,7 +7,7 @@
 ```js
 function youLikeHarryPotter(confirm) {
    if(confirm === true) {
-    console.log(`Wonderfull, You can call me 'Dani'`)
+    console.log(`Wonderful, You can call me 'Dani'`)
    } else {
     console.log('Daniel Mercedes, for you.')
    }
