@@ -22,7 +22,7 @@ youLikeHarryPotter(true);
 
 **Technologies that I want to learn:**
 
-<div style="display: flex; justify-content: center; align-items: center ;">
+<div style="display: flex; justify-content: center; align-items: baseline ;">
    <img style="width: 100px;" src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png" alt="react" width="200"/> 
    <img style="width: 100px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="nodeJs" width="200"/>
    <img style="width: 100px;" src="https://camo.githubusercontent.com/423664f678fc08582fa8c2e5999d6eef9225631dcac55e3b3a66a90a0edb6bf7/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f657870726573732d3130392e737667" alt="express" width="200"/>
